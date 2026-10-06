@@ -1,4 +1,4 @@
-# Dungeon Master vs. Party
+# Dungeons & Dragons
 
 Software Project WS 2026/27, Team 1 (Topic 1: Real-Time Multiplayer Strategy Game), Technische Hochschule Ulm.
 
